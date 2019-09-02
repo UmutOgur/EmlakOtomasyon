@@ -1,0 +1,10 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\bin\Debug\Emlak-Otomasyon.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\bin\Debug\Emlak-Otomasyon.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\bin\Debug\Emlak-Otomasyon.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\obj\Debug\Emlak-Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\obj\Debug\Emlak_Otomasyon.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\obj\Debug\Emlak_Otomasyon.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\obj\Debug\Emlak-Otomasyon.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\obj\Debug\Emlak-Otomasyon.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\obj\Debug\Emlak-Otomasyon.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Emlak-Otomasyon\Emlak-Otomasyon\obj\Debug\Emlak_Otomasyon.Form2.resources
